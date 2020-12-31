@@ -6,7 +6,7 @@
   - password: admin
 3. Add loki into Data Source
   - URL: http://loki:3100
-4. Export loki
+4. Explore loki
 
 ---
 
